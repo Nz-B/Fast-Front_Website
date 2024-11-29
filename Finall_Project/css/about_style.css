@@ -1,0 +1,188 @@
+body{
+    background-color: #FFF8F3;
+}
+#header{
+    font-family: B Koodak;
+    background-color: rgb(5, 5, 51) ;
+    width: 100%;
+    height: 60px;
+    box-shadow: 3px 3px 8px 0 rgb(177, 175, 175);
+}
+#Fartak-Logo{
+    width: 11%;
+    float: left;
+    margin-top: 0.5%;
+
+}
+#rotate{
+    transform: rotate(50deg);
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(50deg);
+    margin-top: 2%;
+    margin-left: -1%;
+    float: left;
+    border-color: #f8363a;
+}
+#company_N{
+    color: white;
+    float: left;
+    position: relative;
+    right: 1.4%;
+}
+#E_account{
+    border: 1px solid white;
+    text-align: center;
+    border-radius: 24px;
+    width: 100px;
+    margin-right: 68%;
+    position: relative;
+    top: 18px;
+}
+#account{
+    font-family: Calibri;
+    font-size: smaller;
+    color: white;
+    text-decoration: none;
+}
+#account_img{
+    width: 15%;
+    color: red;
+}
+li{
+    display: inline-block;
+}
+#navigation{
+    float: right; 
+}
+.nav{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    position: relative;
+    bottom: 27px;
+}
+#main_nav{
+    color: red;
+}
+#scrollButton {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    border: none;
+    background-color: #041930;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 5%;
+}
+#scrollButton:hover {
+    background-color: #041930;
+}
+#about_img{
+    width: 100%;
+    height: 300px;
+}
+#about_us_text{
+    font-family: B Titr;
+    font-size: 100px;
+    text-align: center;
+    color: aliceblue;
+    margin-top: -247px;
+}
+#main_img{
+    width: 24%;
+    margin-top: 9%;
+    margin-right: 2%;
+    margin-left: 4%;
+    float: right;
+}
+#main_1{
+    margin-top: 10%;
+}
+#main_2{
+    margin-top: -1%;
+}
+#main_hr1{
+    display: inline-block;
+    width: 67%;
+    height: 2px;
+    background-color: blue;
+}
+#main_hr2{
+    width: 58%;
+    margin-right: 25%;
+    height: 2px;
+    background-color: blue;
+}
+#main_titr1,#main_titr2{
+    display: inline-block;
+    font-family: B Jadid ;
+    font-size: larger;
+    text-shadow: 5px 5px 3px rgb(177, 175, 175);
+}
+#main_p1,#main_p2{
+    font-family: B Yagut;
+    line-height: 140%;
+    display: inline-block;    
+    text-align: justify;
+    margin-right: -2%;
+    margin-top: -1%;
+}
+#footer{
+    background-color: rgb(5, 5, 51);
+    margin-top: 200px;
+    color: antiquewhite;
+}
+#path{
+    outline: 0;
+    box-sizing: border-box;
+}
+#svg_footer{
+    fill: rgb(5, 5, 51);
+    transform: rotate(180deg);
+    margin-top: -130px;
+}
+#Fartak_footer{
+    font-size: 200%;
+    margin-right: 2%;
+}
+#Fartak_FP{
+    width: 30%;
+    line-height: 160%;
+    text-align: justify;
+    margin-right: 2%;
+    color: white;
+}
+#footer_contact{
+    height: 100px;
+    margin-right: 43%;
+    position: relative;
+    top: -155px;
+    line-height: 10px;
+}
+#icon_location,#icon_phone{
+    display: inline-block;
+    height: 30px;
+}
+#icon_email{
+    display: inline-block;
+    height: 18px;
+}
+#p_location,#p_phone,#p_email{
+    display: inline-block;
+    color: white;
+}
+#security{
+    margin-right: 50%;
+    margin-top: -200px;
+}
+#symbol{
+    background-color: #FFF8F3;
+    border-radius: 65px;
+    width: 40%;
+    height: 180px;
+}
+#mark{
+    background-color: #FFF8F3;
+    border-radius: 74px;
+    width: 180px;
+    height: 184px;
+}

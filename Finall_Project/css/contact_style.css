@@ -1,0 +1,232 @@
+body{
+    background-color: #FFF8F3;
+}
+#header{
+    font-family: B Koodak;
+    background-color: rgb(5, 5, 51) ;
+    width: 100%;
+    height: 60px;
+    box-shadow: 3px 3px 8px 0 rgb(177, 175, 175);
+}
+#Fartak-Logo{
+    width: 11%;
+    float: left;
+    margin-top: 0.5%;
+
+}
+#rotate{
+    transform: rotate(50deg);
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(50deg);
+    margin-top: 2%;
+    margin-left: -1%;
+    float: left;
+    border-color: #f8363a;
+}
+#company_N{
+    color: white;
+    float: left;
+    position: relative;
+    right: 1.4%;
+}
+#E_account{
+    border: 1px solid white;
+    text-align: center;
+    border-radius: 24px;
+    width: 100px;
+    margin-right: 68%;
+    position: relative;
+    top: 18px;
+}
+#account{
+    font-family: Calibri;
+    font-size: smaller;
+    color: white;
+    text-decoration: none;
+}
+#account_img{
+    width: 15%;
+    color: red;
+}
+li{
+    display: inline-block;
+}
+#navigation{
+    float: right; 
+}
+.nav{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    position: relative;
+    bottom: 27px;
+}
+#main_nav{
+    color: red;
+}
+#scrollButton {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    border: none;
+    background-color: #041930;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 5%;
+}
+#scrollButton:hover {
+    background-color: #041930;
+}
+#contact_img{
+    width: 100%;
+    height: 300px;
+}
+#contact_us_text{
+    font-family: B Titr;
+    font-size: 90px;
+    text-align: center;
+    color: aliceblue;
+    margin-top: -240px;
+} 
+#contact_box_img{
+    float: left;
+    margin-top: 12%;
+    margin-left: 0%;
+    width: 42%;
+}
+#contact_Q {
+    display: inline-block;
+    width: 50%;
+    margin-top: 8%;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+}
+#contact_title {
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+.label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: block;
+    color: #555;
+}
+.input-field, .textarea-field, select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+.input-field:focus, .textarea-field:focus, select:focus {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0px 0px 5px rgba(0, 123, 255, 0.2);
+}
+.textarea-field {
+    resize: vertical;
+}
+.submit-btn {
+    width: 100%;
+    padding: 12px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.submit-btn:hover {
+    background-color: #0056b3;
+}
+.h3{
+    margin-right: 28%;
+    margin-top: -20%;
+}
+.p{
+    margin-right: 40%;
+}
+#app_box,#tel_box,#email_box{
+    display: inline-block;
+    width: 25%;
+    background-color: #EEEEEE;
+    border-radius: 18%;
+    box-shadow: -8px 5px 8px rgb(177, 175, 175);
+}
+#app_box{
+    margin-right: 2%;
+}
+#tel_box{
+    margin-right: 10%
+}
+#email_box{
+    margin-right: 10%;
+}
+#footer{
+    background-color: rgb(5, 5, 51);
+    margin-top: 250px;
+    color: antiquewhite;
+}
+#path{
+    box-sizing: border-box;
+}
+#svg_footer{
+    fill: rgb(5, 5, 51);
+    transform: rotate(180deg);
+    margin-top: -130px;
+}
+#Fartak_footer{
+    font-size: 200%;
+    margin-right: 2%;
+}
+#Fartak_FP{
+    width: 30%;
+    line-height: 160%;
+    text-align: justify;
+    margin-right: 2%;
+    color: white;
+}
+#footer_contact{
+    height: 100px;
+    margin-right: 43%;
+    position: relative;
+    top: -155px;
+    line-height: 10px;
+}
+#icon_location,#icon_phone{
+    display: inline-block;
+    height: 30px;
+}
+#icon_email{
+    display: inline-block;
+    height: 18px;
+}
+#p_location,#p_phone,#p_email{
+    display: inline-block;
+    color: white;
+}
+#security{
+    margin-right: 50%;
+    margin-top: -200px;
+}
+#symbol{
+    background-color: #FFF8F3;
+    border-radius: 65px;
+    width: 40%;
+    height: 180px;
+}
+#mark{
+    background-color: #FFF8F3;
+    border-radius: 74px;
+    width: 180px;
+    height: 184px;
+}
